@@ -1,4 +1,4 @@
-# Adidas-Sales-Dashboard
+# PowerBI-Adidas-Sales-Dashboard
 An interactive, high-impact Power BI dashboard designed to evaluate Adidas's sales performance, profitability, product category demand, retailer distribution, and regional revenue patterns across the United States.
 ---
 <img src="https://github.com/CS-Deurghare/Adidas-Sales-Dashboard/blob/6c9a360094607a738f1a6a3e96a0c6c5f3107f01/Adidas%20Sales%20Dashboard.png" alt="Image Description" width="700">
