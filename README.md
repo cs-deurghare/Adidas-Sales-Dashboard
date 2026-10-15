@@ -7,7 +7,7 @@ An interactive, high-impact Power BI dashboard designed to evaluate Adidas's sal
 
 <br>
 
-<img src="https://github.com/CS-Deurghare/Adidas-Sales-Dashboard/blob/6c9a360094607a738f1a6a3e96a0c6c5f3107f01/Adidas%20Sales%20Dashboard.png" alt="Image Description" width="700">
+<img src="https://github.com/CS-Deurghare/Adidas-Sales-Dashboard/blob/6c9a360094607a738f1a6a3e96a0c6c5f3107f01/Adidas%20Sales%20Dashboard.png" alt="Adidas Sales Dashboard" width="700">
 
 <br>
 
