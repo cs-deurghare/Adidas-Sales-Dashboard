@@ -60,7 +60,7 @@ An interactive, high-impact Power BI dashboard designed to evaluate Adidas's sal
 - Power Query
 - Excel / CSV Dataset
 
-# How to Run/View
+# How to Access
 - Download the .pbix file from this repository.
 - Open it using Power BI Desktop.
 - Use the top slicers to filter data dynamically by Sales Method (In-Store, Online, Outlet) or adjust the Date Range Slider.
